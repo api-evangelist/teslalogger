@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TeslaLogger (self-hosted) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://github.com/bassmaster187/TeslaLogger
+TeslaLogger (self-hosted) provides a self‑hosted data logger for Tesla vehicles, enabling owners to collect and analyse battery, charging, and usage metrics. It runs on Raspberry Pi, Docker, Synology NAS and other platforms, offering a web interface and API to retrieve vehicle telemetry, battery degradation, charging sessions, and more. The solution supports integration with ScanMyTesla and offers detailed dashboards for monitoring range, consumption, and firmware updates.
+
+**Areas:** Company · Automotive · DataLogging · OpenSource · Tesla
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://teslalogger.de/degradation.php)
+- [Documentation](https://teslalogger.de/docs)
+- [Getting started](https://teslalogger.de/docs/installation/raspberry-install)
+- [Changelog](https://teslalogger.de/docs/extras/changelog)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/teslalogger/](https://apis.io/providers/teslalogger/).
